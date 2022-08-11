@@ -1,0 +1,29 @@
+Problem Statement:
+A medical healthcare company is spreading awareness. It has collected a dataset of 5110 people. The company now wants to launch an application which will detect on the basis of the information entered by the person that whether the person has a possibility of stoke or not. We need to develop a machine learning model to predict the data.
+
+Link to the dataset: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
+
+The data set has following features:-
+1. Gender	
+2. Age	
+3. Hypertension	
+4. Heart Disease	
+5. Ever Married
+6. Residence Type	
+7. Average Glucose Level	
+8. BMI
+9. Smoking Status
+
+Following modifications have been made to the dataset:
+Formerly Smoked: 1
+Never Smoked: 0
+Smokes: 2
+Unknown: 3
+Rural: 0
+Urban: 1
+Male: 0
+Female: 1
+Yes: 1
+No: 0
+
+
